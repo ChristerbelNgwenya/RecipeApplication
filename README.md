@@ -14,7 +14,7 @@ Navigate to the directory where you want to clone the repository.
 Run the following command to clone the repository:
 bash
 Copy code
-git clone https://github.com/st103600400/recipe1-program.git
+git clone [https://github.com/st103600400/recipe1-program.git](https://github.com/ChristerbelNgwenya/RecipeApplication)
 Save to grepper
 Open the Project in Visual Studio:
 Launch Microsoft Visual Studio.
